@@ -20,6 +20,10 @@ li {
     line-height: 26px;
 }
 
+li {
+    padding: 5px 0px 5px 0px;
+}
+
 /****/
 
 /* Title */
@@ -43,7 +47,7 @@ li {
 
 #col-main {
     margin: 0px auto;
-    max-width: 760px;
+    max-width: 950px;
 }
 
 
