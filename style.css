@@ -3,3 +3,30 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 20px;
+    line-height: 26px;
+}
+
+/****/
+
+/* Title */
+
+#title {
+    font-size: 36px;
+    line-height: 36px;
+    border-bottom: 2px black solid;
+}
+
+
+/* Col-main */
+
+#col-main {
+    margin: 0px auto;
+    max-width: 760px;
+}
