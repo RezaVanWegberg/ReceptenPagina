@@ -39,9 +39,16 @@ li {
     line-height: 32px;
 }
 
-/* Col-main */
+/* col-main */
 
 #col-main {
     margin: 0px auto;
     max-width: 760px;
+}
+
+
+/* col-ingrediënten */
+
+#col-ingrediënten ul {
+    padding-left: 35px;
 }
