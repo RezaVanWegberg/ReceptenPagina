@@ -12,16 +12,23 @@ h2 {
     font-size: 32px;
     line-height: 32px;
     font-weight: 500;
+    margin-top: 40px;
 }
 
 p,
 li {
     font-size: 20px;
     line-height: 26px;
+    margin: 0px;
 }
 
-li {
+ul li {
     padding: 5px 0px 5px 0px;
+}
+
+
+ol li {
+    padding: 10px 0px 10px 0px;
 }
 
 /****/
