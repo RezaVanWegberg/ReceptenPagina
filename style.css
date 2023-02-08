@@ -63,3 +63,13 @@ ol li {
 #col-ingrediënten ul {
     padding-left: 35px;
 }
+
+
+/* col-tip */
+
+#col-tip {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #def6ed;
+    margin-bottom: 40px;
+}
