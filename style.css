@@ -80,3 +80,7 @@ ol li {
 .bg-body-tertiary {
     margin-bottom: 40px;
 }
+
+#col-brood-foto img {
+    max-width: 600px;
+}
