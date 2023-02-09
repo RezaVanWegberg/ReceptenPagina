@@ -81,6 +81,7 @@ ol li {
     margin-bottom: 40px;
 }
 
-#col-brood-foto img {
+#col-brood-foto img,
+#col-appelbollen-foto img {
     max-width: 600px;
 }
